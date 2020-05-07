@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.exe
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.dll
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\bin\Debug\netcoreapp3.1\cidades.pdb
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\obj\Debug\netcoreapp3.1\cidades.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\obj\Debug\netcoreapp3.1\cidades.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\obj\Debug\netcoreapp3.1\cidades.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\obj\Debug\netcoreapp3.1\cidades.dll
+C:\Users\Maria Luiza\Documents\Luiza\cidades\cidades\obj\Debug\netcoreapp3.1\cidades.pdb
